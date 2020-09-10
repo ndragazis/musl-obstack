@@ -48,6 +48,7 @@
 #endif
 #endif
 
+#undef ELIDE_CODE
 
 #ifndef ELIDE_CODE
 
